@@ -26,6 +26,8 @@ The source code for this project is available at: https://github.com/coding-boot
 
 A tutorial followed to complete the object was used. It is available at: https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 
+## Webpage
+The project is located at: https://cbailey73.github.io/password-generator/
 
 
 
